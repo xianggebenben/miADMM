@@ -1,4 +1,4 @@
-# Convergence and Applications of Alternating Direction Method of Multipliers on the Multi-convex Problems (PAKDD 2022)
+# Convergence and Applications of ADMM on the Multi-convex Problems (PAKDD 2022)
 
 This is the implmentation  of the Alternating Direction Method of Multipliers (ADMM) on multi-convex problems.
 
@@ -11,7 +11,7 @@ The code of this paper is in the multi-task learning folder. Please run ADMM_mai
 
 @inproceedings{WANG2022_PAKDD,
 
-title = {Convergence and Applications of Alternating Direction Method of Multipliers on the Multi-convex Problems},
+title = {Convergence and Applications of ADMM on the Multi-convex Problems},
 
 author = {Junxiang Wang and Liang Zhao},
 
